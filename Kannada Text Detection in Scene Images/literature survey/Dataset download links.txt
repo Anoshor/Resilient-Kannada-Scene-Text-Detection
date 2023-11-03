@@ -1,0 +1,8 @@
+ICDAR 2003 : http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2003_Robust_Reading_Competitions
+ICDAR 2013-15: https://rrc.cvc.uab.es/?ch=2&com=downloads
+IIT 5k-word: https://cvit.iiit.ac.in/research/projects/cvit-projects/the-iiit-5k-word-dataset
+ICDAR 2017: https://zenodo.org/record/835489
+Synth Text Dataset: https://www.robots.ox.ac.uk/~vgg/data/scenetext/
+COCO Dataset: https://bgshih.github.io/cocotext/
+SVT dataset: http://www.iapr-tc11.org/mediawiki/index.php?title=The_Street_View_Text_Dataset
+MSRA TD500: http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500)

@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/FINAL_RP/train
+val: /content/drive/MyDrive/FINAL_RP/val
+test: /content/drive/MyDrive/FINAL_RP/test
+
+nc: 2
+batch: 32
+names: ['kannada', 'english']
