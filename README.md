@@ -2,6 +2,7 @@
 # Resilient Kannada Scene Text Detetction: YOLO-CRAFT Fusion
 
 Research Paper Project on Kannada Scene Text Detection
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/10499106)
 
 
 ## WorkFlow
